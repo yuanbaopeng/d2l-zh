@@ -1,4 +1,5 @@
 *.zip
 nohup.out
 */.ipynb_checkpoints/*
-
+*.csv
+data/*
